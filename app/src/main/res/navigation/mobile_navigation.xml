@@ -22,7 +22,7 @@
         tools:layout="@layout/home_fragment">
 
         <!-- TODO STEP 7.1 - Add action with transitions -->
-        <!--<action-->
+        <!--<action-->s
             <!--android:id="@+id/next_action"-->
             <!--app:destination="@+id/flow_step_one_dest"-->
             <!--app:enterAnim="@anim/slide_in_right"-->
